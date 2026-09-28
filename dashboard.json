@@ -6,6 +6,7 @@
   "operator_pages": 294,
   "other_pages": 34,
   "pages_parsed": 178,
+  "pages_unparsed": 150,
   "parse_percent": 54.3,
   "resources_total": 222,
   "resources_with_web_url": 209,
@@ -33,5 +34,63 @@
     "Rutube",
     "Tutu",
     "VK"
+  ],
+  "verified_url_records": 241,
+  "regions_with_catalog_page": 81,
+  "regions_without_parsed_page": 19,
+  "regions_without_catalog_page": 8,
+  "pages_missing_region_id": 65,
+  "parsed_pages_missing_region_id": 36,
+  "resources_repeated_percent": 90.5,
+  "top_repeated": [
+    {
+      "name": "Dzen",
+      "page_count": 178,
+      "mention_count": 303
+    },
+    {
+      "name": "Mail.ru",
+      "page_count": 178,
+      "mention_count": 303
+    },
+    {
+      "name": "Rambler",
+      "page_count": 178,
+      "mention_count": 303
+    },
+    {
+      "name": "2GIS",
+      "page_count": 178,
+      "mention_count": 178
+    },
+    {
+      "name": "Avito",
+      "page_count": 178,
+      "mention_count": 178
+    }
+  ],
+  "mobile_count": 13,
+  "mobile_highlights": [
+    "Yandex Navigator",
+    "Citydrive",
+    "DiaNyan",
+    "FreeStyle Libre 2",
+    "iCan Health",
+    "iCan Reach",
+    "POCTech CGM",
+    "Yuwell Anytime"
+  ],
+  "medical_count": 23,
+  "medical_verified_count": 22,
+  "medical_diabetes_count": 18,
+  "medical_highlights": [
+    "M-Line",
+    "Satellit Online",
+    "FreeStyle Libre 2",
+    "DiaNyan",
+    "Medtrum",
+    "MEDSI",
+    "Mother and Child",
+    "CMD"
   ]
 }
