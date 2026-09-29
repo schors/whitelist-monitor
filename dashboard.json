@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "as_of": "2026-09-29T19:41:53+00:00",
+  "as_of": "2026-09-29T20:07:16+00:00",
   "source": "tools/aggregate.py",
   "pages_total": 337,
   "operator_pages": 302,
   "other_pages": 35,
-  "pages_parsed": 202,
-  "pages_unparsed": 135,
-  "parse_percent": 59.9,
+  "pages_parsed": 204,
+  "pages_unparsed": 133,
+  "parse_percent": 60.5,
   "resources_total": 224,
   "resources_with_web_url": 211,
   "unique_web_urls": 217,
@@ -15,38 +15,38 @@
   "verified_url_records": 246,
   "regions_configured": 89,
   "regions_with_catalog_page": 86,
-  "regions_with_parsed_page": 72,
-  "regions_without_parsed_page": 17,
+  "regions_with_parsed_page": 73,
+  "regions_without_parsed_page": 16,
   "regions_without_catalog_page": 3,
   "pages_missing_region_id": 66,
-  "parsed_pages_missing_region_id": 43,
+  "parsed_pages_missing_region_id": 44,
   "resources_repeated": 201,
   "resources_repeated_percent": 89.7,
   "top_repeated": [
     {
       "name": "Gosuslugi",
+      "page_count": 196,
+      "mention_count": 196
+    },
+    {
+      "name": "Dzen",
+      "page_count": 194,
+      "mention_count": 325
+    },
+    {
+      "name": "Avito",
       "page_count": 194,
       "mention_count": 194
     },
     {
-      "name": "Dzen",
-      "page_count": 192,
-      "mention_count": 323
-    },
-    {
-      "name": "Avito",
-      "page_count": 192,
-      "mention_count": 192
-    },
-    {
       "name": "MAX",
-      "page_count": 192,
-      "mention_count": 192
+      "page_count": 194,
+      "mention_count": 194
     },
     {
       "name": "Rutube",
-      "page_count": 192,
-      "mention_count": 192
+      "page_count": 194,
+      "mention_count": 194
     }
   ],
   "mobile_count": 15,
