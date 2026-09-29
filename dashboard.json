@@ -1,55 +1,55 @@
 {
   "schema_version": "1.0",
-  "as_of": "2026-09-29T14:21:20+00:00",
+  "as_of": "2026-09-29T15:17:07+00:00",
   "source": "tools/aggregate.py",
   "pages_total": 337,
   "operator_pages": 302,
   "other_pages": 35,
-  "pages_parsed": 184,
-  "pages_unparsed": 153,
-  "parse_percent": 54.6,
-  "resources_total": 222,
-  "resources_with_web_url": 209,
-  "unique_web_urls": 215,
-  "url_records": 246,
-  "verified_url_records": 241,
+  "pages_parsed": 182,
+  "pages_unparsed": 155,
+  "parse_percent": 54.0,
+  "resources_total": 224,
+  "resources_with_web_url": 211,
+  "unique_web_urls": 217,
+  "url_records": 251,
+  "verified_url_records": 246,
   "regions_configured": 89,
   "regions_with_catalog_page": 86,
   "regions_with_parsed_page": 70,
   "regions_without_parsed_page": 19,
   "regions_without_catalog_page": 3,
   "pages_missing_region_id": 66,
-  "parsed_pages_missing_region_id": 36,
-  "resources_repeated": 201,
-  "resources_repeated_percent": 90.5,
+  "parsed_pages_missing_region_id": 35,
+  "resources_repeated": 199,
+  "resources_repeated_percent": 88.8,
   "top_repeated": [
     {
       "name": "Dzen",
-      "page_count": 184,
-      "mention_count": 315
+      "page_count": 182,
+      "mention_count": 313
     },
     {
       "name": "Mail.ru",
-      "page_count": 184,
-      "mention_count": 315
+      "page_count": 182,
+      "mention_count": 313
     },
     {
       "name": "Rambler",
-      "page_count": 184,
-      "mention_count": 315
+      "page_count": 182,
+      "mention_count": 313
     },
     {
       "name": "2GIS",
-      "page_count": 184,
-      "mention_count": 184
+      "page_count": 182,
+      "mention_count": 182
     },
     {
       "name": "Avito",
-      "page_count": 184,
-      "mention_count": 184
+      "page_count": 182,
+      "mention_count": 182
     }
   ],
-  "mobile_count": 13,
+  "mobile_count": 15,
   "mobile_highlights": [
     "Yandex Navigator",
     "Citydrive",
@@ -73,13 +73,14 @@
     "Mother and Child",
     "CMD"
   ],
-  "common_count": 17,
+  "common_count": 18,
   "common_resources": [
     "2GIS",
     "Avito",
     "Dzen",
     "Gazeta.ru",
     "Gosuslugi",
+    "Kinopoisk",
     "Lenta",
     "Mail.ru",
     "MAX",
