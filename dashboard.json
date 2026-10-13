@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "as_of": "2026-10-06T08:25:08+00:00",
+  "as_of": "2026-10-13T07:31:39+00:00",
   "source": "tools/aggregate.py",
   "pages_total": 337,
   "operator_pages": 302,
   "other_pages": 35,
-  "pages_parsed": 225,
-  "pages_unparsed": 112,
-  "parse_percent": 66.8,
+  "pages_parsed": 21,
+  "pages_unparsed": 316,
+  "parse_percent": 6.2,
   "resources_total": 224,
   "resources_with_web_url": 211,
   "unique_web_urls": 217,
@@ -15,38 +15,38 @@
   "verified_url_records": 246,
   "regions_configured": 89,
   "regions_with_catalog_page": 86,
-  "regions_with_parsed_page": 75,
-  "regions_without_parsed_page": 14,
+  "regions_with_parsed_page": 21,
+  "regions_without_parsed_page": 68,
   "regions_without_catalog_page": 3,
   "pages_missing_region_id": 66,
-  "parsed_pages_missing_region_id": 44,
-  "resources_repeated": 201,
-  "resources_repeated_percent": 89.7,
+  "parsed_pages_missing_region_id": 0,
+  "resources_repeated": 125,
+  "resources_repeated_percent": 55.8,
   "top_repeated": [
     {
-      "name": "Gosuslugi",
-      "page_count": 216,
-      "mention_count": 216
+      "name": "Bank Of Russia",
+      "page_count": 20,
+      "mention_count": 40
     },
     {
-      "name": "Dzen",
-      "page_count": 214,
-      "mention_count": 345
+      "name": "Citydrive",
+      "page_count": 20,
+      "mention_count": 40
     },
     {
-      "name": "Avito",
-      "page_count": 214,
-      "mention_count": 214
+      "name": "Crpt",
+      "page_count": 20,
+      "mention_count": 40
     },
     {
-      "name": "MAX",
-      "page_count": 214,
-      "mention_count": 214
+      "name": "Gismeteo",
+      "page_count": 20,
+      "mention_count": 40
     },
     {
-      "name": "Rutube",
-      "page_count": 214,
-      "mention_count": 214
+      "name": "Goskey",
+      "page_count": 20,
+      "mention_count": 40
     }
   ],
   "mobile_count": 15,
