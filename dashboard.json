@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "as_of": "2026-10-13T07:31:39+00:00",
+  "as_of": "2026-10-20T08:03:20+00:00",
   "source": "tools/aggregate.py",
   "pages_total": 337,
   "operator_pages": 302,
   "other_pages": 35,
-  "pages_parsed": 21,
-  "pages_unparsed": 316,
-  "parse_percent": 6.2,
+  "pages_parsed": 0,
+  "pages_unparsed": 337,
+  "parse_percent": 0.0,
   "resources_total": 224,
   "resources_with_web_url": 211,
   "unique_web_urls": 217,
@@ -15,40 +15,14 @@
   "verified_url_records": 246,
   "regions_configured": 89,
   "regions_with_catalog_page": 86,
-  "regions_with_parsed_page": 21,
-  "regions_without_parsed_page": 68,
+  "regions_with_parsed_page": 0,
+  "regions_without_parsed_page": 89,
   "regions_without_catalog_page": 3,
   "pages_missing_region_id": 66,
   "parsed_pages_missing_region_id": 0,
-  "resources_repeated": 125,
-  "resources_repeated_percent": 55.8,
-  "top_repeated": [
-    {
-      "name": "Bank Of Russia",
-      "page_count": 20,
-      "mention_count": 40
-    },
-    {
-      "name": "Citydrive",
-      "page_count": 20,
-      "mention_count": 40
-    },
-    {
-      "name": "Crpt",
-      "page_count": 20,
-      "mention_count": 40
-    },
-    {
-      "name": "Gismeteo",
-      "page_count": 20,
-      "mention_count": 40
-    },
-    {
-      "name": "Goskey",
-      "page_count": 20,
-      "mention_count": 40
-    }
-  ],
+  "resources_repeated": 0,
+  "resources_repeated_percent": 0.0,
+  "top_repeated": [],
   "mobile_count": 15,
   "mobile_highlights": [
     "Yandex Navigator",
